@@ -1,0 +1,6 @@
+From: payroll@example.invalid
+Reply-To: attacker@unrelated.invalid
+Subject: Urgent verify your account
+Content-Type: text/plain
+
+Please verify your account at http://192.0.2.1/login
